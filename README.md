@@ -9,7 +9,7 @@ These are guidelines of the main setup key points and steps in the installation 
 This includes:
 
 ## Step 1: [Download and install VirtualBox](https://github.com/tbachvarova/Installing-Windows-Server-on-VirtualBox/blob/main/step_01.md);
-## Step 2: Creating a virtual machine for Servers and Clients;
+## Step 2: Creating a virtual machine for Server and Client's PCs;
 ## Step 3: Network setting of the virtual machines (to be on the same network);
 ## Step 4: Windows Server Setup - Network Adapter
 
