@@ -30,5 +30,6 @@ https://www.microsoft.com/en-us/software-download/windows11
 The virtual machine is created in the same way. Then the .ISO file is added
 and the installation of the corresponding  operating system is started.
 ```
-If you want Windows 11 to have Internet during the installation, you need first to set up DHCP and set up the Internet via NAT on the server.
+If you want Windows 11 to have Internet during the installation, 
+you need first to set up DHCP and set up the Internet via NAT on the server.
 ```
