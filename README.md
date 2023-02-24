@@ -17,4 +17,4 @@ This includes:
 
 ## Step 6: [Configure Windows Server DHCP](https://github.com/tbachvarova/Installing-Windows-Server-on-VirtualBox/blob/main/winServerDhcp.md)
 
-## Step 7: Configure Windows Server DHCP
+## Step 7: Configure Windows Server DNS
