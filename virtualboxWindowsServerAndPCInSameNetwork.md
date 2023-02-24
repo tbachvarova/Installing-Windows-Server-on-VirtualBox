@@ -22,5 +22,3 @@ The network name "**intnet**" it is important to indicate that they are on the s
 Client machines only need 1 (one) network adapter with "**Internal Network**" setting with name "**intnet**".
 
 ![](https://www.bachvarova.com/__git/install_windows_server_virtualbox/virtual_box_WindowsClientsNetwork.jpg)
-
-
