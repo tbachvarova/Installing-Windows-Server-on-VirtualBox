@@ -14,7 +14,7 @@ To have Internet and to share it with the other PC in the local network - must h
 It should be set to "**Internal Network**"
 The network name "**intnet**" it is important to indicate that they are on the same network:
 
-![](https://www.bachvarova.com/__git/install_windows_server_virtualbox/virtual_box_WindowsServerNetwork.jpg)
+![](https://www.bachvarova.com/__git/install_windows_server_virtualbox/virtual_box_WindowsServerNetwork.jpg))
 
 
 ## Set Windows Client PCs Network in Virtual machine

@@ -8,6 +8,6 @@ https://www.virtualbox.org/wiki/Downloads
 The installation steps are simple:
 next -> next -> ...
 
-![](https://www.virtualbox.org/manual/images/virtualbox-main-empty.png)
+![](https://www.bachvarova.com/__git/install_windows_server_virtualbox/virtualBoxAfterInstall.png)
 
 
