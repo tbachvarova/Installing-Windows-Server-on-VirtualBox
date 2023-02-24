@@ -15,4 +15,6 @@ This includes:
 
 ## Step 5: [Windows Server Setup - Add DHCP, DNS and Active Directory (AD)](https://github.com/tbachvarova/Installing-Windows-Server-on-VirtualBox/blob/main/winServerNetworkAdaptConf.md)
 
-## Step 6: Configure Windows Server DHCP
+## Step 6: [Configure Windows Server DHCP](https://github.com/tbachvarova/Installing-Windows-Server-on-VirtualBox/blob/main/winServerDhcp.md)
+
+## Step 7: Configure Windows Server DHCP
