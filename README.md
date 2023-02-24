@@ -11,6 +11,6 @@ This includes:
 ## Step 1: [Download and install VirtualBox](https://github.com/tbachvarova/Installing-Windows-Server-on-VirtualBox/blob/main/step_01.md);
 ## Step 2: [Creating a virtual machine for Server and Client's PCs](https://github.com/tbachvarova/Installing-Windows-Server-on-VirtualBox/blob/main/step_02.md);
 ## Step 3: [Network setting of the virtual machines (to be on the same network);](https://github.com/tbachvarova/Installing-Windows-Server-on-VirtualBox/blob/main/virtualboxWindowsServerAndPCInSameNetwork.md)
-## Step 4: Windows Server Setup - Network Adapters Configuration
+## Step 4: [Windows Server Setup - Network Adapters Configuration](https://github.com/tbachvarova/Installing-Windows-Server-on-VirtualBox/blob/main/winServerNetworkAdaptConf.md)
 
 ## Step 5: Windows Server Setup - Add DHCP, DNS and Active Directory (AD)
