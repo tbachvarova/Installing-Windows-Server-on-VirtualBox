@@ -5,6 +5,10 @@ This project aims to demonstrate an installation of Windows Server on a virtual 
 These are guidelines of the main setup key points and steps in the installation and configuration process.
 
 
+`If you need more detailed explanations, I will be glad for your feedback, so I can prepare them.`
+
+
+
 
 This includes:
 
