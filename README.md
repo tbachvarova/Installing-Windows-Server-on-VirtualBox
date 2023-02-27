@@ -30,3 +30,6 @@ This includes:
 
 ## Step 9: [Configure Windows Client PC to join the Domain](https://github.com/tbachvarova/Installing-Windows-Server-on-VirtualBox/blob/main/confclientpc.md)
 
+
+> I hope it was useful for you. :) 
+
