@@ -20,4 +20,6 @@ This includes:
 
 ## Step 6: [Configure Windows Server DHCP](https://github.com/tbachvarova/Installing-Windows-Server-on-VirtualBox/blob/main/winServerDhcp.md)
 
+## Step 6: [Configure Windows Server AD DS](https://github.com/tbachvarova/Installing-Windows-Server-on-VirtualBox/blob/main/confAD_DS.md)
+
 
