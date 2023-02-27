@@ -22,4 +22,10 @@ This includes:
 
 ## Step 6: [Configure Windows Server AD DS](https://github.com/tbachvarova/Installing-Windows-Server-on-VirtualBox/blob/main/confAD_DS.md)
 
+> After these steps you have Windows Server installed, configured Active Directory and a DHCP server to which you can connect client machines.
+
+![](https://www.bachvarova.com/__git/install_windows_server_virtualbox/server_after_ad_dns.jpg)
+
+
+
 
