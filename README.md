@@ -26,6 +26,6 @@ This includes:
 
 ![](https://www.bachvarova.com/__git/install_windows_server_virtualbox/server_after_ad_dns.jpg)
 
-
+## Step 7: [Configure Windows Client PC to join the Domain](https://github.com/tbachvarova/Installing-Windows-Server-on-VirtualBox/blob/main/confclientpc.md)
 
 
