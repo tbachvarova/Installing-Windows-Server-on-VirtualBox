@@ -39,7 +39,9 @@ Here you can add new Organization Units (OU) and/or Groups to the AD.
 
 > 3) In the section "... rename this computer ..." click (change)
 
+
 > 4) In the section "Member of" change from **Workgroup** to **Domain**
+> 
 >  ![](https://www.bachvarova.com/__git/install_windows_server_virtualbox/client_pc_step02.jpg)
  
 > 5) Will be prompted to log in to Windows Server for authorization;
