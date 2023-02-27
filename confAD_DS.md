@@ -24,11 +24,13 @@ After the reboot, the Windows Server Аctive Directory must be configured. An ex
 >
 >**NetBIOS domain name**: Typically, the NetBIOS domain name is the **subdomain** of the DNS domain name. For example, if the DNS domain name is test.com, the NetBIOS domain name is "test". If the DNS domain name is app.test.com, the NetBIOS domain name is "app".
 >
->![](https://www.bachvarova.com/__git/install_windows_server_virtualbox/ad_conf_wiz04.jpg)
+> ![](https://www.bachvarova.com/__git/install_windows_server_virtualbox/ad_conf_wiz04.jpg)
 
-> 5) Paths -> (next)
-![](https://www.bachvarova.com/__git/install_windows_server_virtualbox/ad_conf_wiz05.jpg)
-![](https://www.bachvarova.com/__git/install_windows_server_virtualbox/ad_conf_wiz06.jpg)
+
+> 5) **Paths** -> (next)
+>
+>![](https://www.bachvarova.com/__git/install_windows_server_virtualbox/ad_conf_wiz05.jpg)
+>![](https://www.bachvarova.com/__git/install_windows_server_virtualbox/ad_conf_wiz06.jpg)
 
 > 6) (Install)
 ![](https://www.bachvarova.com/__git/install_windows_server_virtualbox/ad_conf_wiz07.jpg)
