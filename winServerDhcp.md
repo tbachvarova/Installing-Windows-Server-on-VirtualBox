@@ -14,5 +14,5 @@ My Scope is IP FROM: 192.168.50 to  192.168.0.200
 9) Domain Name and DNS Server -> add current server IP: 192.168.0.1
 10) (next) -> (next)
 
-![](https://www.bachvarova.com/__git/install_windows_server_virtualbox/dhcp.jpg)
+
 
