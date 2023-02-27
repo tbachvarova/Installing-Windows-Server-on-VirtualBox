@@ -29,8 +29,11 @@ This will Add "DirectAccess and VPN (RAS)" , this is OK.
 > Mark your server name and right click -> "Configure"
     ![](https://www.bachvarova.com/__git/install_windows_server_virtualbox/ra_add_feature03.jpg)
 > * In the Routing and Remote Access Server setup wizard click (NEXT)
+
+
 > 10) In list of options **choose "Network Address Translation (NAT)"** -> (next)
 >  ![](https://www.bachvarova.com/__git/install_windows_server_virtualbox/ra_add_feature04.jpg)
+
 
 > 11) Leave first Checked -> (next) -> (Finish)
       ![](https://www.bachvarova.com/__git/install_windows_server_virtualbox/ra_add_feature05.jpg)
