@@ -49,6 +49,3 @@ Here you can add new Organization Units (OU) and/or Groups to the AD.
 
 > 6) After the restart, you will be able to log in to the domain with the previously created user and password.
      ![](https://www.bachvarova.com/__git/install_windows_server_virtualbox/client_pc_step03.jpg)
-
-
-*** IN Preogress ..... 
