@@ -20,12 +20,12 @@ This includes:
 
 ## Step 6: [Configure Windows Server DHCP](https://github.com/tbachvarova/Installing-Windows-Server-on-VirtualBox/blob/main/winServerDhcp.md)
 
-## Step 6: [Configure Windows Server AD DS](https://github.com/tbachvarova/Installing-Windows-Server-on-VirtualBox/blob/main/confAD_DS.md)
+## Step 7: [Configure Windows Server AD DS](https://github.com/tbachvarova/Installing-Windows-Server-on-VirtualBox/blob/main/confAD_DS.md)
 
 > After these steps you have Windows Server installed, configured Active Directory and a DHCP server to which you can connect client machines.
 
 ![](https://www.bachvarova.com/__git/install_windows_server_virtualbox/server_after_ad_dns.jpg)
 
-## Step 7: [Configure Windows Client PC to join the Domain](https://github.com/tbachvarova/Installing-Windows-Server-on-VirtualBox/blob/main/confclientpc.md)
+## Step 8: [Configure Windows Client PC to join the Domain](https://github.com/tbachvarova/Installing-Windows-Server-on-VirtualBox/blob/main/confclientpc.md)
 
 
