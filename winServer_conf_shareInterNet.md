@@ -36,6 +36,7 @@ This will Add "DirectAccess and VPN (RAS)" , this is OK.
 
 
 > 11) Leave first Checked -> (next) -> (Finish)
-      ![](https://www.bachvarova.com/__git/install_windows_server_virtualbox/ra_add_feature05.jpg)
-      ![](https://www.bachvarova.com/__git/install_windows_server_virtualbox/ra_add_feature06.jpg)
+>
+>      ![](https://www.bachvarova.com/__git/install_windows_server_virtualbox/ra_add_feature05.jpg)
+ >     ![](https://www.bachvarova.com/__git/install_windows_server_virtualbox/ra_add_feature06.jpg)
 
