@@ -26,6 +26,7 @@ This includes:
 
 ![](https://www.bachvarova.com/__git/install_windows_server_virtualbox/server_after_ad_dns.jpg)
 
-## Step 8: [Configure Windows Client PC to join the Domain](https://github.com/tbachvarova/Installing-Windows-Server-on-VirtualBox/blob/main/confclientpc.md)
+## Step 8: [Share Internet to LAN via NAT - Remote Access](https://github.com/tbachvarova/Installing-Windows-Server-on-VirtualBox/blob/main/winServer_conf_shareInterNet.md)
 
+## Step 9: [Configure Windows Client PC to join the Domain](https://github.com/tbachvarova/Installing-Windows-Server-on-VirtualBox/blob/main/confclientpc.md)
 
