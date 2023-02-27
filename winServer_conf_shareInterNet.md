@@ -32,7 +32,7 @@ This will Add "DirectAccess and VPN (RAS)" , this is OK.
 
 
 > 10) In list of options **choose "Network Address Translation (NAT)"** -> (next)
->  ![](https://www.bachvarova.com/__git/install_windows_server_virtualbox/ra_add_feature04.jpg)
+     ![](https://www.bachvarova.com/__git/install_windows_server_virtualbox/ra_add_feature04.jpg)
 
 
 > 11) Leave first Checked -> (next) -> (Finish)
