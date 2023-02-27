@@ -20,6 +20,7 @@ After the reboot, the Windows Server Аctive Directory must be configured. An ex
 >
 >![](https://www.bachvarova.com/__git/install_windows_server_virtualbox/ad_conf_wiz03.jpg)
 
+
 > 4) NetBIOS domain name in Active Directory-> set what you like -> (next)
 >
 >**NetBIOS domain name**: Typically, the NetBIOS domain name is the **subdomain** of the DNS domain name. For example, if the DNS domain name is test.com, the NetBIOS domain name is "test". If the DNS domain name is app.test.com, the NetBIOS domain name is "app".
@@ -32,12 +33,15 @@ After the reboot, the Windows Server Аctive Directory must be configured. An ex
 >![](https://www.bachvarova.com/__git/install_windows_server_virtualbox/ad_conf_wiz05.jpg)
 >![](https://www.bachvarova.com/__git/install_windows_server_virtualbox/ad_conf_wiz06.jpg)
 
+
 > 6) (Install)
-![](https://www.bachvarova.com/__git/install_windows_server_virtualbox/ad_conf_wiz07.jpg)
+>
+>![](https://www.bachvarova.com/__git/install_windows_server_virtualbox/ad_conf_wiz07.jpg)
+
 
 > 7) After the installation, you must restart the server.
      Your login screen should be different:
-![](https://www.bachvarova.com/__git/install_windows_server_virtualbox/ad_conf_wiz08_afterRestart.jpg)
+> ![](https://www.bachvarova.com/__git/install_windows_server_virtualbox/ad_conf_wiz08_afterRestart.jpg)
 ![](https://www.bachvarova.com/__git/install_windows_server_virtualbox/server_after_ad_dns.jpg)
 
 `For now, you have Windows installed, configured Active Directory and a DHCP server to which you can connect client machines.`
