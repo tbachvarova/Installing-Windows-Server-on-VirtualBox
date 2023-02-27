@@ -8,9 +8,16 @@ Adding a **DHCP** to a Windows server is done by:
 
 ![](https://www.bachvarova.com/__git/install_windows_server_virtualbox/addDNS_DHCP_AD_GP.png)
 ![](https://www.bachvarova.com/__git/install_windows_server_virtualbox/serverAddAD.jpg)
+
 5) Then "next" and Install features ...
+
+
 ![](https://www.bachvarova.com/__git/install_windows_server_virtualbox/addingAD_DHCP_DNS.jpg)
+
 ![](https://www.bachvarova.com/__git/install_windows_server_virtualbox/addingAD_DHCP_DNS_result.jpg)
 
-6) and then restart ...
-   ![](https://www.bachvarova.com/__git/install_windows_server_virtualbox/addingAD_DHCP_DNS_toConf.jpg)
+6) and then **restart** ...
+
+
+7) After restarting, it should be necessary to configure the Active Directory (AD DS) and the DHCP server
+ ![](https://www.bachvarova.com/__git/install_windows_server_virtualbox/addingAD_DHCP_DNS_toConf.jpg)
