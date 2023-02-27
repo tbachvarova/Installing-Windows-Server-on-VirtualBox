@@ -1,4 +1,6 @@
-# Installing Windows Server on VirtualBox and configuration to work with DHCP Server, Active Directory and DNS Server
+# Installing Windows Server on VirtualBox, configuring it to work with DHCP Server, Active Directory and DNS Server
+
+++ 
 
 This project aims to demonstrate an installation of Windows Server on a virtual machine via VirtualBox (Oracle VM VirtualBox). Adding **DHCP** (+ share internet to local PCs),  add **Active Directory** and **DNS** Server.
 
