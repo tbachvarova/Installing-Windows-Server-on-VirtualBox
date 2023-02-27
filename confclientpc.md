@@ -36,6 +36,7 @@ Here you can add new Organization Units (OU) and/or Groups to the AD.
 > 1) In Windows Explorer right click on "This PC" -> "Properties"
 > 2) Find "Rename this PC (advanced)"
      ![](https://www.bachvarova.com/__git/install_windows_server_virtualbox/client_pc_step01.jpg)
+
 > 3) In the section "... rename this computer ..." click (change)
 
 > 4) In the section "Member of" change from **Workgroup** to **Domain**
@@ -45,7 +46,7 @@ Here you can add new Organization Units (OU) and/or Groups to the AD.
 > If you authenticate correctly you will be greeted with "Welcome to domain domain.local and a **Restart** message.
 
 > 6) After the restart, you will be able to log in to the domain with the previously created user and password.
-
+     ![](https://www.bachvarova.com/__git/install_windows_server_virtualbox/client_pc_step03.jpg)
 
 
 *** IN Preogress ..... 
